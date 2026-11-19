@@ -168,6 +168,7 @@ def page(title, body, rel, desc, cls):
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:type" content="website">
+<link rel="icon" href="{rel}favicon.png" type="image/png">
 <link rel="preload" href="{rel}fonts/inclusive-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{rel}style.css">
 </head>
