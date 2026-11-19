@@ -1,0 +1,249 @@
+# Project pages, in the order they appear on the home page.
+#
+# How to edit:
+#   ## slug | Title | Tag, Tag            starts a project
+#   M text                                 a line under the tags (Year, Client…)
+#   P text                                 a paragraph (HTML links allowed)
+#   I x y w h file                         an image, placed as on the old Readymag page
+#                                          (x/y/w/h in Readymag pixels; images whose
+#                                          tops line up sit side by side)
+#   V x y w h video.mp4 poster.jpg         a looping video
+#   THUMB file [tall]                      the home page thumbnail
+#
+# Image files live in img/. Readymag files are named after their Readymag id.
+
+## mitgera-11 | Mitgera 11 | Graphic Identity, Editorial Design, Print Design
+THUMB mitgera-11-1.jpg
+M Year: 2026
+M Client: Llavor Homes
+P Identity and sales dossier for Mitgera 11, a twenty-two-home development in Tarragona’s Part Baixa. The name, Catalan for party wall, sets the tone for the wordmark and for a boxed ring binder covering the location, the building, the apartment types and the specifications.
+I 193 176 638 399 mitgera-11-1.jpg
+I 193 591 312 195 mitgera-11-2.jpg
+I 520 591 311 195 mitgera-11-3.jpg
+I 193 802 638 399 mitgera-11-4.jpg
+I 193 1217 312 195 mitgera-11-5.jpg
+I 520 1217 311 195 mitgera-11-6.jpg
+I 193 1428 638 399 mitgera-11-7.jpg
+I 193 1843 312 195 mitgera-11-8.jpg
+I 520 1843 311 195 mitgera-11-9.jpg
+I 193 2054 638 399 mitgera-11-10.jpg
+I 193 2469 638 399 mitgera-11-11.jpg
+
+## formgiving-book | Formgiving Book | Editorial Design
+THUMB 5726591/a2b56172-bac4-41d0-ba49-555d3cdde76d.png?cX=47&cY=395&cW=1642&cH=1179
+M Year: 2020
+M While at: BIG - Bjarke Ingels Group
+P As the Lead Graphic Designer at Bjarke Ingels Group (BIG), I led the team that developed this catalogue, which accompanied the <a href="../formgiving-exhibition/">exhibition of the same name</a> at the Danish Architecture Center in Copenhagen.
+P Formgiving is a visionary attempt to look at the horizon of time. The Danish word for “design” is “formgivning,” which literally means to give form to that which has not yet taken shape. In other words, to give form to the future. Using our power to give form, rather than allowing the future to take shape, is more important now than ever, as humankind’s impact on the planet continues to increase and pose ever greater challenges to all life forms.
+P Team: Paula Madrid, Geetika Bhutani, Ipek Akin, Jesslyn Guntur, Morgan Day
+I 193 232 638 360 5497052/2d07107f-4c01-4d85-8d63-e90c4db46a8b.jpg
+P The book is presented in a timeline, stretching from the Big Bang into the most distant future. Projects are structured around six strands of evolution: “Making,” “Sensing,” “Sustaining,” “Thinking,” “Healing,” and “Moving” the multimedia-based, interdisciplinary concepts encompassing the building industry.
+I 193 654 638 136 5726591/228d48ae-202f-4000-8050-75edc96a5baa.png
+I 193 800 203 200 5497052/aa35ccce-a3ba-4a81-842a-c9c9f155f83e.png
+I 410 800 203 200 5497052/1ce82505-f580-473d-9a3d-c9fe5f6fb92d.png
+I 628 800 203 200 5497052/32091520-ae50-495b-9c89-fee3b2ae8077.png
+P It introduces the concept of the “10 Gifts” -- design elements that go beyond solving a problem to actively enhance the human experience. These gifts, such as sustainability, biodiversity, play, and social interaction, are intentionally embedded in projects to offer added value for both users and the wider community. Rather than designing just for function, BIG sees architecture as an opportunity to give something back -- to make buildings that are generous, engaging, and future-ready.
+I 193 1088 638 360 5497052/fc56c0bb-b9d9-4809-8968-3c748595c906.png
+P Formgiving is the third and final installment in Bjarke Ingels Group’s trilogy of architectural monographs with TASCHEN, following <i>Yes is More</i> (2009) and <i>Hot to Cold</i> (2015). Together, these books chart the evolution of BIG’s design philosophy and practice.
+I 319 1500 385 608 5497052/3e8ae889-cb9c-4c8c-bcd2-e7ec4427e31d.jpg
+I 193 2120 638 544 5497052/fc4b296b-24ef-435e-a9b9-d62a3204783c.png
+I 193 2680 638 544 5497052/97cc7ee2-ab96-4929-819d-d6aabd268890.png
+P The cover art illustrates the transformation of the word "formgiving" from archaic glyphs to futuristic typography. This design choice reflects the intent to connect the past, present, and future, emphasizing the role of design in giving form to concepts that have yet to materialize.
+P The progression from ancient symbols to modern typefaces on the cover encapsulates the book's journey through time, from the Big Bang to speculative futures, reinforcing the idea that architecture and design are continuous processes of transformation and innovation.
+I 193 3328 638 392 5497052/05b892c3-1916-47b7-a2c3-e72110a18990.jpg
+
+## flowers-and-dogs-deck-of-cards | Flowers & Dogs Deck of Cards | Illustration, Print Design
+THUMB 5726591/8de89e48-3fd4-4383-a2fa-c844201ac759.png?cX=0&cY=497.2604501607717&cW=1396&cH=1005.4790996784566
+M Year: 2024
+M Client: Passion Project
+P What started as a personal illustration project slowly bloomed into something bigger.
+P I began this series as a simple creative exercise: reimagining the classic Spanish deck of cards through flowers, with each suit (Coins, Cups, Swords, and Clubs) represented by a different botanical element. Along the way, I started pairing each design with a dog, using minimalist lines, but bold colors to give the cards personality without clutter.
+I 193 184 638 440 5497052/5a22f007-94ac-4122-af02-226c676412f6.jpg
+I 193 640 638 312 5726591/1b7c083e-d611-4638-b4af-b9257f8a8c0b.jpg
+P Printed on premium card stock with a smooth, durable finish, this deck is designed to be used — for games, cardistry, magic, or simply displayed as a small collection of illustrated moments. It’s a little mix of tradition, play, and personal storytelling.
+I 193 1032 312 320 5497052/b0e44e3f-00f8-4cd6-bc1b-8ca4fff22ebd.png
+I 520 1032 311 320 5497052/94a18c3b-ce92-4c16-9021-9b33700a6786.png
+I 193 1368 638 352 5497052/a29065b2-b7c0-49fb-96e7-671beccf43e7.jpg
+I 193 1736 638 504 5497052/5c11e133-4c60-4ce1-897c-598021f775f8.jpg
+
+## 3daysofdesign-visual-identity | 3daysofdesign Visual Identity | Graphic Identity
+THUMB 5726591/dd59e475-7e3a-4a67-af03-dd09c49e065c.jpg?cX=60&cY=120&cW=780&cH=1160 tall
+M Year: 2024
+M Client: 3daysofdesign
+P In 2024, the Danish architecture studio BIG was selected to design the graphic identity for the Scandinavian design festival 3daysofdesign. I had the opportunity to lead the project as Head of Graphic Design, working closely with the team to bring the concept to life.
+P The theme ‘Dare to Dream’ resonated for us as a call to embrace the many possibilities within the realm of design. For us it means to inspire and be inspired, and it somehow also encapsulates the optimistic belief that through imagination, anything is possible.
+I 193 197 638 483 5497052/49b476e8-215e-4052-96e8-c7c7d5d0db2d.jpg
+I 193 696 638 371 5497052/0636c032-838e-46a9-91b8-1609593c9a61.jpg
+P For the graphic style we chose to go for something that hadn’t been done before, in this case: a 3D modelled rendering with heavy video-game vibes, that we’ve used before for some of our projects at BIG.
+I 193 1128 638 384 5497052/dea9fba2-4a15-4fb2-98a4-cdc3dd7d7667.png
+P Then, we decided to put the cloud as the protagonist of the illustration, because it symbolizes dreams and aspirations. And next, we thought, why not create multiple clouds, in this case three, to represent each day of the festival.
+P And finally we connected them by stairs, also crafted from clouds. These represent the journey and progress in turning dreams into reality… and by linking these clouds, we wanted to make an emphasis on the collaborative nature of the creative process.
+I 193 1614 312 312 5726591/b382365f-7630-4c26-8533-1e4515ddae22.jpg
+I 520 1614 311 312 C:5726591/Image-5a84e89b-a039-4897-b972-223251ab5526.gif
+P We came up with the last bit and my favorite part of the illustration. We decided to add clouds of furniture orbiting around, drawing inspiration from the classic childhood game of recognizing shapes in the sky. This way we infused a sense of imaginative exploration into the overall visual narrative.
+I 193 1992 312 224 5726591/9ef11b17-dd8f-4eda-b25d-b914570870c4.jpg
+I 520 1992 311 224 5726591/9ef11b17-dd8f-4eda-b25d-b914570870c4.jpg
+I 193 2232 638 472 5497052/8afaf87d-6460-4a07-9812-2860997e38f2.jpg
+I 193 2712 638 128 5497052/3df748b2-3d4b-47ed-998b-ea2c4aad0543.jpg
+I 193 2856 312 368 5726591/d74d5604-138f-411f-a811-8fe32b4e76b3.jpg
+I 520 2856 311 368 5726591/f5896058-6799-4b8d-ac23-d16e2de38344.jpg
+I 193 3240 312 368 5726591/b3ad4963-8f54-4dc0-a965-aebd2b798819.png
+I 520 3240 311 368 5726591/6338cf79-1a2a-4e29-9ba1-15569b9d90a3.jpg
+
+## geologic-map-of-the-near-side-of-the-moon | Geologic Map of the Near Side of the Moon | Infographic Design
+THUMB 5726591/cf27389b-830c-4ae3-b627-a3d440e788e4.jpg?cX=118&cY=122&cW=2221&cH=1600
+M Year: 2024
+M Client: Passion Project
+P I recreated this geologic map of the Moon’s near side, originally published in 1971 by Don E. Wilhelms and John F. McCauley for the U.S. Geological Survey. Using tools like Illustrator and Photoshop, I aimed to modernize the design using a different color palette, while preserving the intricate details of the original. This project blends historical lunar cartography with contemporary graphic design, bringing vintage scientific data into a fresh visual context.
+I 193 176 638 547 5497052/336ee0df-f056-4931-9c3e-c60aa2719ca8.jpg
+I 193 739 202 200 5497052/a5f3e585-679b-4f9a-8f8f-ff6e0b4d05c4.jpg
+I 411 739 202 200 5497052/f4c8b1db-26bc-49ed-8a05-12d0db3d0844.jpg
+I 629 739 202 200 5497052/64e46499-c3cf-4c18-b8a1-5d348257e077.jpg
+I 193 955 638 448 5726591/ed47e820-a3f3-4260-93cd-4ba9dd6809c7.png
+I 193 1419 638 448 5497052/b2407972-6377-4840-bd1e-36f2eb805849.png
+C Original map by Don E. Wilhelms and John F. McCauley (1971)
+
+## formgiving-exhibition | Formgiving Exhibition | Graphic Identity, Spatial Design, Print Design
+THUMB 5726591/e64e825d-5123-4c63-a3f6-2eae1b0eb238.jpg?cX=0&cY=149&cW=3314&cH=2387
+M Year: 2019
+M While at: BIG - Bjarke Ingels Group
+P As the Lead Graphic Designer at Bjarke Ingels Group (BIG) in 2019, I was part of the team that developed the studio’s largest exhibition to date, held at the Danish Architecture Center in Copenhagen. I was primarily responsible for all the graphic collateral, including posters, flyers, and maps. Formgiving took visitors on a chronological journey -- from the Big Bang, through the evolution of life as we know it, and into the possibilities of the future.
+I 193 176 638 520 5726591/0058bd8c-7cbb-4f9a-8cbd-76ba6b25c7b1.jpg
+I 193 712 638 904 5726591/855d31fa-1967-4186-a403-ca34d0f7a4fa.jpg
+P The main gallery featured 71 projects, each grouped according to the Gifts they offer to their users, neighborhoods, cities, landscapes, and the environment. These were organized into ten strategic themes: Adapt, Show, Respond, Marry, Host, Bond, Productize, Grow, and Pool.
+I 193 1680 312 408 5726591/e30929d7-dc75-4a65-9935-130b582f1d74.jpg
+I 520 1680 311 408 5726591/f74cf1ca-29e7-4f58-a1ff-548ae5e16d50.png
+I 193 2104 638 408 5726591/ab7f1d66-2f3b-4a07-a506-0085442aa809.jpg
+I 193 2528 312 232 5726591/da531411-e05d-4197-b5d7-c6b2300c931d.jpg
+I 520 2528 311 232 5726591/d5d6a08a-4085-417e-bffd-14d97d9c141f.jpg
+P As part of the exhibition experience, I designed a series of ten collectible posters, one for each category, which visitors could take home as souvenirs. On one side of each poster was an axonometric drawing of a project from the Gift, and on the other side, an essay in both Danish and English that explained the concept of the Gift.
+I 193 2824 638 408 5726591/d8dfb00c-a881-40c9-9098-0554fa74b6e3.jpg
+I 193 3248 638 408 C:5726591/Image-0e72cced-8936-4a2f-b26c-695a8d6c6aa3.gif
+I 193 3672 638 1024 5726591/de5ad9c0-86e9-497d-a263-acf716c94012.jpg
+
+## munsell-color-system | Munsell Color System | Infographic Design
+THUMB munsell-color-system-1.mp4 munsell-color-system-1.jpg
+M Year: 2024
+M Client: Passion Project
+P This infographic visually explores the Munsell Color System, invented by American artist and educator Albert H. Munsell in the early 20th century. The system classifies colors based on three key attributes: hue, value, and chroma. Modeled using Rhinoceros 3D software and further refined with Adobe Illustrator and InDesign, this project translates the complexities of color theory into a clear, engaging visual format. It offers an insightful guide to understanding color relationships and their practical applications in art, design, and science.
+I 193 176 638 440 5726591/9450eb9e-46e2-4422-b44d-9fc449f3b761.jpg
+I 193 632 202 200 5726591/e9ce75d2-2bc6-4449-9efa-461827eb2828.jpg
+I 411 632 202 200 5726591/a3efea6f-2627-4a07-b0d9-a9fd8d1ade43.jpg
+I 629 632 202 200 5726591/774ceb85-ca5c-4980-aaa8-1e28d6638450.jpg
+I 193 848 638 880 5726591/9c27578b-73b9-47d7-8e12-5ea5f3a3d9ce.jpg
+
+## from-the-arctic-edge-to-ocean-bloom | From the Arctic Edge to Ocean Bloom | Editorial Design, 3D Illustration
+THUMB 5726591/6c40a3e7-b4d1-4761-8881-5dbbe4065de0.jpg?cX=235&cY=203&cW=1830&cH=1318
+M Year: 2022
+M While at: BIG - Bjarke Ingels Group
+P For this project, I developed the editorial concept and layout for the scientific publication documenting the Arctic Edge to Ocean Bloom ocean experiment. The book combines research-driven content with accessible visual storytelling to communicate the goals, methods, and significance of the expedition.
+P I was responsible for the full editorial design, including typography, layout, and visual hierarchy, as well as the creation of custom 3D illustrations to explain complex experimental setups and oceanographic concepts. These visuals were designed to bridge the gap between scientific data and public understanding, making the material more engaging and easier to grasp.
+P The result is a cohesive, visually compelling publication that supports the scientific narrative while standing as a strong piece of design communication in its own.
+I 193 240 638 352 5726591/3bb0d14d-cdcd-408e-9667-a29df7938d0f.jpg
+I 193 608 312 240 5726591/c4548536-dfaa-499c-a216-1e94967380f2.png
+I 520 608 311 240 5726591/faff04fe-bc3f-4451-9fcd-51e654f41ce9.png
+I 520 848 311 296 5726591/812fb1a5-b8ee-4fd0-9a0f-4f40a4a6578f.png
+I 193 900 312 192 5726591/632d3187-1e36-4688-9af8-879a557d74e1.png
+I 193 1152 312 240 5726591/5c72eec8-5bf7-4b6e-b419-7f6519d0d0aa.png
+I 520 1152 311 240 5726591/64f34dbe-3255-4b0b-8019-33295669f75b.png
+I 520 1394 311 376 5726591/fbfb98bf-1bbd-458e-806e-1495ba13ef08.png
+I 193 1440 312 280 5726591/e74e2bb7-c739-4df3-b954-553b1fab2209.png
+I 193 1776 638 408 5726591/f8ed5fa2-cd93-48e4-a552-7c9c6f670777.jpg
+P This map shows chlorophyll per m3 of seawater. Chlorophyll is a product of photosynthetic activity and is therefore used as a way to measure the primary production (of plankton and algae) in the oceans. The blue areas of the oceans indicate low marine primary productivity. We focused on analysing why these three locations show extremely high levels of chlorophyll.
+I 193 2256 312 240 5726591/8976ee74-ba42-4cfb-b2c8-8c6246c1d01e.png
+I 520 2256 311 240 5726591/73b4c696-ed6d-46b0-94bd-8ad3bb34456e.png
+I 193 2512 312 240 5726591/a699d015-76d1-4c94-b153-ab2771491627.png
+I 520 2512 311 240 5726591/4a3840b7-46e8-4982-834f-718b7a94e4d1.png
+I 341 2768 342 264 5726591/deb4a267-4056-412e-bc0f-6ee47bed6d39.png
+I 341 3040 342 264 5726591/6eaab484-8d9f-4f4f-b671-b0d29d9a92de.png
+I 341 3312 342 264 5726591/7217f241-891e-49b0-9bc7-abbd406421b7.png
+I 193 3592 312 240 5726591/09d028a8-2afb-4ca0-8076-a6f809a281cb.png
+I 520 3592 311 240 5726591/3811e9e8-c649-4b86-bcd0-7810920ed25c.png
+P I created this 3D infographic to illustrate the experimental setup for one of the marine research project exploring the impact of glacial rock flour on ocean ecosystems. The visual breaks down how buoys, mesocosm tubes, and sensors were arranged to collect data on physical, chemical, and biological changes in the North Atlantic over several weeks.
+I 289 3904 446 476 5726591/1c6284c5-c170-4459-959c-a983d91b750e.png
+I 193 4384 638 384 5726591/45724103-1afc-454c-8a4d-b2eb47246244.jpg
+
+## marijane | Marijane | Graphic Identity, Logo Design
+THUMB 5726591/d2d6530c-eb4e-414b-a097-787dbb69dff1.jpg?cX=244&cY=183&cW=1944&cH=1396
+M Year: 2025
+M Client: Marijane
+P I had the pleasure of working with Beata on the rebranding of her CBD shop in Wrocław, Poland. The goal was to move away from stereotypical cannabis branding and create a visual identity that felt fresh, feminine, and approachable.
+P The scope included logo design and color direction. We explored several illustrated logo options before landing on a playful yet serene character to represent marijane. I developed a bright, warm color palette to reflect the brand’s positive, feel-good vibe.
+I 193 197 638 387 5726591/7ce423e1-d7e3-49ad-b2fa-2ecf94063c2f.jpg
+I 193 600 638 272 5726591/0ac776e3-3713-43f6-a21d-e07ed0822a75.jpg
+I 193 888 638 408 5726591/9674d34a-d33a-402c-8381-d692cfbc1abb.jpg
+I 193 1312 312 384 5726591/c51d4d61-4acf-403f-bc47-142a7247d82a.png
+I 520 1312 311 384 5726591/94df86e7-fe21-4a79-acf9-a4d5d221d310.jpg
+I 193 1712 638 408 5726591/54a080d9-689e-4d7b-8a88-49d1142ba8ad.jpg
+
+## bhq-signage-and-wayfinding | BHQ Signage & Wayfinding | Signage & Wayfinding, Icon Design
+THUMB bhq-signage-1.mp4 bhq-signage-1.jpg
+M Year: 2022
+M While at: BIG - Bjarke Ingels Group
+P In this project, I focused on designing a comprehensive iconography and signage system for the new headquarters of the architecture studio BIG - Bjarke Ingels Group, emphasizing clarity, usability, and visual consistency. The elements were developed to align with the office’s visual identity, featuring black and white icons inspired by the ones on BIG’s website for their project portfolio and other visual materials. The icons were designed not only to guide but also to convey a sense of character, bringing personality to the wayfinding system and reflecting the creative spirit of the studio.
+I 193 184 638 328 5726591/20fe37ad-9e99-4937-a219-07020ad4e0c9.jpg
+P The main users of this building are employees, who will quickly become familiar with the layout within a short time, and clients or visitors, who will generally be guided rather than navigating on their own. Because of this, extensive signage is not necessary here, unlike in public buildings with many one-time or infrequent visitors, where clear wayfinding systems are essential.
+I 193 584 638 312 5726591/cb3cf7a2-48c2-4ea9-9f23-9298172a737a.jpg
+I 193 912 638 152 5726591/80cbd5c6-526c-451b-b8fc-9231f535e30e.jpg
+P The iconography was developed using the same design details as the typeface TWK Everett, which is the font the company uses across its branding. Below, we can see a complete package of the icons.
+I 193 1128 638 384 5726591/6e570233-6cd2-4221-ae99-15118ad4da39.jpg
+I 193 1528 638 264 5726591/21f58649-1d93-44f6-b5a0-4994c67c3666.jpg
+I 193 1808 638 448 5726591/acf42e57-e289-44e6-86cc-862d7245b5ad.jpg
+
+## sol-y-mar | Sol & Mar | Graphic Identity, Logo Design
+THUMB 5726591/b076a277-6357-45bc-8a0e-e5bc23cc9d63.png
+M Year: 2025
+M Client: Sol &amp; Mar Inmobiliaria
+P The identity for Sol &amp; Mar, a real estate agency based on the Catalan coast, draws inspiration from the Mediterranean landscape: the meeting of sun and sea. The design system combines bold, modern typography with a fresh color palette of deep blue marines and coral accents. This visual language aims to reflect both lifestyle and trust: approachable, vibrant, and contemporary.
+I 193 168 638 384 5726591/9b48603e-be88-47db-a61c-ed43ea73de00.jpg
+I 193 568 638 200 5726591/3e86f619-30cf-4dbd-968a-8fa4da28a675.jpg
+I 193 784 638 145 5726591/e1bba62e-c9b5-4236-94fb-f8e00b1666f9.jpg
+I 193 936 638 376 5726591/03069493-8ed5-4b08-b7c0-07bbce149afc.jpg
+I 193 1320 638 384 5726591/c92c071f-c831-4aa6-b938-bd67a86a4a39.jpg
+I 193 1720 638 464 5726591/33ea9944-dfc5-4c2d-9359-c990f063904a.jpg
+I 193 2200 638 400 5726591/09c7e57b-20bf-4375-b685-b8605421583c.jpg
+I 193 2616 638 408 5726591/715dfe15-425d-4f46-afd3-6951ff4f9eb2.png
+
+## the-architects-guide-to-the-galaxy | The Architect’s Guide to the Galaxy | Editorial Design, 3D Illustration
+THUMB 5726591/e39a5ee0-68db-498d-a8a2-8e42a16cbc38.png
+M Year: 2018
+M While at: BIG - Bjarke Ingels Group
+P In 2017, BIG was commissioned to design a Martian prototype habitat in Dubai. The Architect's Guide to the Galaxy is a complementary project to this endeavor: the Mars Science City.
+P The goal of the book was to inspire people curious about space exploration. But instead of creating a classic scientific manual, we wanted to highlight the unique challenges and opportunities of designing architecture on other planets—while presenting it in a more accessible, user-friendly way.
+I 193 185 638 391 5726591/d3e27046-12fd-4902-a85d-5ccc65608e0a.png
+P We started by conducting in-depth research on the many planets and moons in our solar system, examining their conditions in terms of temperature, radiation, atmosphere, gravity, and more. One of our team members, who previously worked at SpaceX, helped ensure the information was as accurate as possible. In the end, we identified eight potential candidates—planets and moons—where human life might be able to thrive.
+I 193 656 312 255 5726591/f39c3597-69fc-404f-a9fb-13e4d42bb2f5.jpg
+I 520 656 311 255 5726591/8661f327-3163-4abb-9882-263da7ff006d.jpg
+I 193 927 638 280 5726591/862b6d97-f773-4186-80b1-db81a3d708d9.png
+P My task as the graphic designer for this project was to present the information in a way that was both digestible and aesthetically pleasing. We also faced the challenge of making the content user-friendly so that everyone could easily understand it.
+P The problem was that much of our information ended up looking quite similar and repetitive. That’s why I developed and proposed a new graphic style: little videogame-like “chunks” of planets. This approach allowed us to highlight the key characteristics of each planet or moon, while keeping the visuals playful and approachable.
+I 193 1268 638 312 5726591/2ce0515d-c0a3-4aff-b486-d8467ede231f.jpg
+I 193 1592 312 256 5726591/2f48dc4f-5d9f-4295-b445-addf0d931032.jpg
+I 520 1592 311 256 5726591/14a96c4c-74c2-4bb1-92fe-6521fad496d3.jpg
+P There was a chapter in the book where we analyzed the different climatic conditions that have led to diverse forms of vernacular architecture on Earth. We studied existing building techniques from around the world to draw inspiration for how we might construct settlements on other planets.
+I 193 1856 638 328 5726591/97547e6f-b64c-465d-b95a-595a519de62c.jpg
+P From there, we began to imagine how those building processes could unfold in extraterrestrial environments, considering the materials that might be available. This exploration led us to develop a diagram illustrating potential building techniques adapted for other planets.
+I 193 2240 638 440 5726591/e101ea7c-fdb4-4d45-9450-4c208127cac4.png
+P At the end of the book, we condensed all the information we gathered during the project, going planet by planet. It was incredibly satisfying to see the result—it provided an amazing overview of all the work we had done. You also notice a consistent graphic style that ties everything together, with all the information neatly broken down into individual chunks.
+I 193 2744 638 296 5726591/78c9e930-ba49-44ed-a1f3-54cef01da4e4.jpg
+I 193 3054 638 272 5726591/74ddbf52-c2fb-4c76-95e4-2ce1898f7562.png
+I 193 3338 638 376 5726591/38a00b05-c325-466c-928b-0472165007cd.png
+
+## homing-pigeons | Homing Pigeons | Illustration
+THUMB 5726591/5ecd1baa-8a2f-45f5-af2d-9d37152878bb.jpg?cX=0&cY=0&cW=2000&cH=1436
+M Year: 2021
+M Client: Passion Project
+P I designed this set of eight postage stamps featuring homing pigeons—<i>palomas mensajeras</i> in Spanish. Known for their incredible ability to find their way home, these birds were once vital carriers of written messages. Each stamp highlights a different pigeon, capturing its unique personality while honoring their historical role in communication. The illustrations are done in clean lines and a simple, cartoon style to suit the small format of the stamps.
+I 193 176 638 432 5726591/c9e4f412-f3b1-41ca-b3e9-a95908c96007.jpg
+I 193 624 638 248 5726591/c09b5d5b-884c-4a70-8a33-e9f8bfdea073.jpg
+I 193 888 638 288 5726591/bb0a0485-b779-429e-a8cc-f26cc757f0c8.jpg
+I 193 1192 638 480 5726591/3d6f4e70-68ef-4a6d-a10b-c1bbb3d11862.jpg
+
+## relationscapes | Relationscapes | Illustration
+THUMB 5726591/d9577d8f-97c3-49f9-8958-3b59c2425e15.jpg?cX=297.22544642857133&cY=0&cW=3905.5491071428573&cH=2813
+M Year: 2024
+M Client: Blair Hodges
+P For my first-ever podcast cover design, I had the privilege of creating the artwork for Relationscapes, a show by Blair Hodges that explores the intricate landscapes of human connections. The illustration depicts a planet with different people constellations sitting on it, symbolizing the diverse and complex ways in which we form relationships. The design aims to reflect the beauty of human connection in all its forms, using vibrant, harmonious colors to bring the concept to life and invite listeners into a world of diverse emotional landscapes.
+I 193 176 638 496 5726591/061b905b-1edf-40a5-a4fe-a844dcf03c39.jpg
+I 193 688 638 528 5726591/305c354f-d8f7-4305-924e-9e2db710f332.jpg
+I 193 1232 638 440 5726591/207ae614-6cd4-486b-a247-2808ad7939c8.png
