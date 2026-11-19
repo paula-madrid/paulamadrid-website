@@ -12,23 +12,6 @@
 #
 # Image files live in img/. Readymag files are named after their Readymag id.
 
-## mitgera-11 | Mitgera 11 | Graphic Identity, Editorial Design, Print Design
-THUMB mitgera-11-1.jpg
-M Year: 2026
-M Client: Llavor Homes
-P Identity and sales dossier for Mitgera 11, a twenty-two-home development in Tarragona’s Part Baixa. The name, Catalan for party wall, sets the tone for the wordmark and for a boxed ring binder covering the location, the building, the apartment types and the specifications.
-I 193 176 638 399 mitgera-11-1.jpg
-I 193 591 312 195 mitgera-11-2.jpg
-I 520 591 311 195 mitgera-11-3.jpg
-I 193 802 638 399 mitgera-11-4.jpg
-I 193 1217 312 195 mitgera-11-5.jpg
-I 520 1217 311 195 mitgera-11-6.jpg
-I 193 1428 638 399 mitgera-11-7.jpg
-I 193 1843 312 195 mitgera-11-8.jpg
-I 520 1843 311 195 mitgera-11-9.jpg
-I 193 2054 638 399 mitgera-11-10.jpg
-I 193 2469 638 399 mitgera-11-11.jpg
-
 ## formgiving-book | Formgiving Book | Editorial Design
 THUMB 5726591/a2b56172-bac4-41d0-ba49-555d3cdde76d.png?cX=47&cY=395&cW=1642&cH=1179
 M Year: 2020
@@ -239,11 +222,19 @@ I 193 624 638 248 5726591/c09b5d5b-884c-4a70-8a33-e9f8bfdea073.jpg
 I 193 888 638 288 5726591/bb0a0485-b779-429e-a8cc-f26cc757f0c8.jpg
 I 193 1192 638 480 5726591/3d6f4e70-68ef-4a6d-a10b-c1bbb3d11862.jpg
 
-## relationscapes | Relationscapes | Illustration
-THUMB 5726591/d9577d8f-97c3-49f9-8958-3b59c2425e15.jpg?cX=297.22544642857133&cY=0&cW=3905.5491071428573&cH=2813
-M Year: 2024
-M Client: Blair Hodges
-P For my first-ever podcast cover design, I had the privilege of creating the artwork for Relationscapes, a show by Blair Hodges that explores the intricate landscapes of human connections. The illustration depicts a planet with different people constellations sitting on it, symbolizing the diverse and complex ways in which we form relationships. The design aims to reflect the beauty of human connection in all its forms, using vibrant, harmonious colors to bring the concept to life and invite listeners into a world of diverse emotional landscapes.
-I 193 176 638 496 5726591/061b905b-1edf-40a5-a4fe-a844dcf03c39.jpg
-I 193 688 638 528 5726591/305c354f-d8f7-4305-924e-9e2db710f332.jpg
-I 193 1232 638 440 5726591/207ae614-6cd4-486b-a247-2808ad7939c8.png
+## mitgera-11 | Mitgera 11 | Graphic Identity, Editorial Design, Print Design
+THUMB mitgera-11-1.jpg
+M Year: 2026
+M Client: Llavor Homes
+P Identity and sales dossier for Mitgera 11, a twenty-two-home development in Tarragona’s Part Baixa. The name, Catalan for party wall, sets the tone for the wordmark and for a boxed ring binder covering the location, the building, the apartment types and the specifications.
+I 193 176 638 399 mitgera-11-1.jpg
+I 193 591 312 195 mitgera-11-2.jpg
+I 520 591 311 195 mitgera-11-3.jpg
+I 193 802 638 399 mitgera-11-4.jpg
+I 193 1217 312 195 mitgera-11-5.jpg
+I 520 1217 311 195 mitgera-11-6.jpg
+I 193 1428 638 399 mitgera-11-7.jpg
+I 193 1843 312 195 mitgera-11-8.jpg
+I 520 1843 311 195 mitgera-11-9.jpg
+I 193 2054 638 399 mitgera-11-10.jpg
+I 193 2469 638 399 mitgera-11-11.jpg

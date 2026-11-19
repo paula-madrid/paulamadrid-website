@@ -196,12 +196,12 @@ def build():
 
     # home: two columns, filled top-down so the tall tile sits where it did
     cols, heights = [[], []], [0, 0]
-    order = ["mitgera-11", "formgiving-book", "flowers-and-dogs-deck-of-cards", "3daysofdesign-visual-identity",
+    order = ["formgiving-book", "flowers-and-dogs-deck-of-cards", "3daysofdesign-visual-identity",
              "geologic-map-of-the-near-side-of-the-moon", "formgiving-exhibition", "munsell-color-system",
              "from-the-arctic-edge-to-ocean-bloom", "marijane", "bhq-signage-and-wayfinding", "sol-y-mar",
-             "the-architects-guide-to-the-galaxy", "homing-pigeons", "relationscapes"]
+             "the-architects-guide-to-the-galaxy", "homing-pigeons", "mitgera-11"]
     by = {p["slug"]: p for p in projects}
-    left = ["mitgera-11", "formgiving-book", "3daysofdesign-visual-identity", "munsell-color-system", "marijane", "sol-y-mar", "homing-pigeons"]
+    left = ["formgiving-book", "3daysofdesign-visual-identity", "munsell-color-system", "marijane", "sol-y-mar", "homing-pigeons"]
     for slug in order:
         p = by[slug]
         i = 0 if slug in left else 1

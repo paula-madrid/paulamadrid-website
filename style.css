@@ -8,7 +8,7 @@
 
 :root{
   --u:calc(min(100vw,1600px)/1024);
-  --ink:#191919; --grey:#616161; --link:#0080ff; --tag:#a3a3a3;
+  --ink:#191919; --grey:#616161; --link:#0080ff; --tag:#a6a6a6;
   --body:max(calc(9*var(--u)),9.5px); --lh:1.25;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -25,7 +25,7 @@ img,video{display:block;width:100%;height:100%;object-fit:cover}
 .side .name:hover{text-decoration:none}
 .avatar{width:calc(26*var(--u));height:calc(26*var(--u));margin:calc(8*var(--u)) 0 calc(14*var(--u));background:none;object-fit:contain}
 .intro p+p{margin-top:1.25em}
-.copy{font-size:max(calc(7*var(--u)),8px);position:fixed;left:calc(30*var(--u));bottom:calc(12*var(--u))}
+.copy{font-size:max(calc(7*var(--u)),8px);margin-top:calc(40*var(--u))}
 
 /* home grid */
 .grid{margin-left:calc(356*var(--u));padding:calc(16*var(--u)) 0 calc(48*var(--u));display:flex;gap:calc(15*var(--u));width:calc(638*var(--u))}
@@ -43,7 +43,7 @@ img,video{display:block;width:100%;height:100%;object-fit:cover}
 .project{margin-left:calc(193*var(--u));width:calc(638*var(--u));padding:calc(18*var(--u)) 0 calc(40*var(--u))}
 .project h1{font-weight:400;color:var(--ink);font-size:calc(12*var(--u));line-height:calc(14*var(--u))}
 .tags{list-style:none;display:flex;flex-wrap:wrap;gap:calc(3*var(--u));margin:calc(13*var(--u)) 0 calc(15*var(--u))}
-.tags li{background:var(--tag);color:#fff;font-weight:600;font-size:max(calc(7*var(--u)),8px);line-height:calc(15*var(--u));padding:0 calc(3*var(--u));border-radius:calc(2*var(--u))}
+.tags li{background:var(--tag);color:#fff;font-weight:400;font-size:var(--body);height:calc(15*var(--u));min-height:15px;display:flex;align-items:center;padding:0 calc(6*var(--u));border-radius:calc(3*var(--u))}
 .meta{margin-bottom:calc(9*var(--u))}
 .project .text{max-width:calc(475*var(--u));margin:calc(4*var(--u)) 0 calc(14*var(--u))}
 .project .text+.text{margin-top:-0.1em}
@@ -79,7 +79,7 @@ img,video{display:block;width:100%;height:100%;object-fit:cover}
   .next{display:none}
   .project{margin:0;width:auto;padding:16px 20px 32px}
   .tags{gap:4px;margin:10px 0 14px}
-  .tags li{font-size:11px;line-height:20px;padding:0 6px;border-radius:3px}
+  .tags li{font-size:12px;height:22px;padding:0 8px;border-radius:4px}
   .project .text{max-width:none;margin:4px 0 16px}
   .band{margin-bottom:10px}
   .next-bottom{display:block;margin-top:24px;color:var(--ink)}
